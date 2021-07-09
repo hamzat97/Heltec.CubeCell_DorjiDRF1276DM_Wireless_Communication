@@ -29,4 +29,4 @@ You can use this work as a base for any project using a wireless communication b
 - The Arduino sketch and the Python script allows an automatic wireless communication between Dorji DRF1276DM module and Heltec CubeCell dev-board. This last one sends the message "Hello Dorji" every 20 seconds to Dorji DRF1276DM module, and once Dorji DRF1276DM module receives the message "Hello Dorji", it sends automatically "Hello Heltec Cubcell" message to Heltec CubeCell dev-board and so forth.
 - The two codes are simple as much as possible and improved by adding comments in order to not make them difficut to read or understand and also to make the changes quickly.
 
-Finally, I remain at your entire disposal, just contact me at my academic mail h.taous@ump.ac.ma if you have any questions or if you need any kind of assistance.
+Finally, I remain at your entire disposal, just contact me at my personal Gmail hamzataous847@gmail.com if you have any questions or if you need any kind of assistance.
